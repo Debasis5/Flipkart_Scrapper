@@ -150,3 +150,11 @@ def create_figure():
 
 if __name__ == "__main__":
     app.run()  # running the app on the local machine on port 8000
+
+<div class="content-section">
+            <h3>Summary</h3><br>
+             <div class="content">
+                <p class="article-content">{{result}}</p>
+             </div >
+            <h3>
+     </div>
